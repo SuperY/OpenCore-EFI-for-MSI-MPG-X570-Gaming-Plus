@@ -1,5 +1,5 @@
 # OpenCore-EFI-for-MSI-MPG-X570-Gaming-Plus
-
+Thanks [yhl452493373](https://github.com/yhl452493373/OpenCore-EFI-for-MSI-MPG-X570-Gaming-Plus)
 ## EFI for Opencore，Support MacOS 10.15.5
 
 ---
